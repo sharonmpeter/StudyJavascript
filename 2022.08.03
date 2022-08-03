@@ -1,0 +1,13 @@
+console.log("hello")
+var sumss=sums(0,1);
+
+function sums(sum,i){
+    while(i<=10){
+       sum+=i;
+       i++; 
+        console.log(i)  
+  }
+  return sum;
+}
+
+console.log(sumss)
