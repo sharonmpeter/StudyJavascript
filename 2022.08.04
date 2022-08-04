@@ -1,6 +1,6 @@
 <html>
 <head>
-	<title>Ambily's page</title>
+	<title>Sharon's page</title>
 </head>
 
 <script>
@@ -14,7 +14,7 @@
 <body background="garden.jpg" onLoad='a()'>
 <table>
 	<tr>
-		<th>Hello Brown Bear
+		<th>My name is Sharon M Peter
 			</th>
 			<th><img src="brownbear.jpg" />
 			</th>
