@@ -1,0 +1,26 @@
+<html>
+<head>
+	<title>Ambily's page</title>
+</head>
+
+<script>
+
+	function a(){
+		alert("HELLO");
+	}
+
+</script>
+
+<body background="garden.jpg" onLoad='a()'>
+<table>
+	<tr>
+		<th>Hello Brown Bear
+			</th>
+			<th><img src="brownbear.jpg" />
+			</th>
+		</tr>
+	</table>
+
+
+</body>
+</html>
