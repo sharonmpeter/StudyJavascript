@@ -1,0 +1,12 @@
+function sum(startNumber, endNumber){
+    var currentNumber = 0;
+    currentNumber = startNumber;
+    var sum=0;
+    
+    while(currentNumber<=endNumber){
+        sum+=currentNumber++;
+    }
+return sum;
+}
+
+console.log(sum(1, 10));
